@@ -1,0 +1,29 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Somos un taller con una amplia experiencia en la mecánica en general de todo tipo de vehículos"
+    title: "Trabajamos con la mejor tecnología"
+    text: "el cliente se va con una sonrisa en la boca"
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
+      - label: "Read more"
+        url: "#"
+
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Hablar un poco de la experiencia"
+    title: "Tenemos el mejor equipo"
+    text: "Este es un taller donde le trataremos con la mejor tecnología"
+
+    buttons: 
+      - label: "See live"
+        url: "#"
+
+      - label: "Read more"
+        url: "#"
+
+

@@ -1,0 +1,14 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Motor Mecanic"
+  text: "Taller especializado en mecanica en general, con mas de 15 años de experiencia. Bienvenido a tu taller mecánico en Pamplona. Contamos con los mejores servicios para tu vehículo."
+  buttonPrimary:
+    label: "Como trabajamos"
+    url: "#"
+
+  buttonSecondary:
+    label: "Servicios"
+    url: ""
+

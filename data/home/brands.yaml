@@ -1,0 +1,11 @@
+enabled: true
+id: "brands"
+
+content:
+  title: "Trabajamos con las mejores marcas en el mundo "
+  items:
+    - "images/bosh.png"
+    - "images/michelin.png"
+    - "images/castrol.png"
+    - "images/mann.png"
+    - "images/monroe.png"

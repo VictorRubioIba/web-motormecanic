@@ -1,0 +1,29 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Nuestros Servicios"
+  text: "Estos son nuestros principales Servicios"
+  cards:
+    - image: "images/services-web-development.png"
+      title: "Mecánica en general"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      
+
+    - image: "images/services-web-development.png"
+      title: "Mantenimientos"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Cambios de Neumáticos"
+      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Pasamos tu ITV"
+      text: "Si lo desea podemos pasar la itv de su vehículo por usted. " 
