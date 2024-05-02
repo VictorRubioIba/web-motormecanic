@@ -33,7 +33,7 @@ params:
 
   contact:
     - "motormecanic@gmail.com"
-    - "207.555.0119"
+    - "948 25 22 48"
 
   copyright: "© 2024 Up Business All Rights Reserved by Víctor Rubio Ibáñez"
 
@@ -70,15 +70,15 @@ menus:
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
+    - name: "¿Que hacemos?"
       url: "/#"
       weight: 2
 
-    - name: "Our team"
+    - name: "Nuestro equipo"
       url: "/#"
       weight: 3
 
-    - name: "Pricing"
+    - name: "Tarifas"
       url: "/#"
       weight: 4
 

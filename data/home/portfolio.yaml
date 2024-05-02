@@ -2,7 +2,7 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/portfolio-ecommerce.png"
+  - image: "images/taller_1.png"
     pretitle: "Somos un taller con una amplia experiencia en la mecánica en general de todo tipo de vehículos"
     title: "Trabajamos con la mejor tecnología"
     text: " Sellamos el libro oficial de garantía, según la LEY 46/2010. Libre elección de taller. Ya no está obligado de llevar el coche al taller que le digan. Usted decide"
@@ -14,7 +14,7 @@ content:
       - label: "Read more"
         url: "#"
 
-  - image: "images/portfolio-ecommerce.png"
+  - image: "images/taller_11.png"
     pretitle: "Rapidez en vehículos industriales, empresas o autónomos"
     title: "Tenemos el mejor equipo"
     text: "Ofrecemos este servicio a nuestros clientes para que su vida cotidiana no se pare cuando su coche se encuentre en nuestras instalaciones."

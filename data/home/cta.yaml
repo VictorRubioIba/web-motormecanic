@@ -3,7 +3,7 @@ id: "cta"
 
 content:
   title: "Localización"
-  image: "images/services-web-development.png"
+  image: "images/taller_17.png"
   button:
-    label: "Let's talk"
+    label: "¿Hablamos?"
     url: "#"
