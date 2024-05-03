@@ -3,7 +3,7 @@ id: "cta"
 
 content:
   title: "Localización"
-  image: "images/taller_17.jpg"
+  image: "images/Taller_17.jpg"
   button:
     label: "¿Hablamos?"
     url: "#"
