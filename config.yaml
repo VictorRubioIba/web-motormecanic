@@ -44,11 +44,11 @@ menus:
       weight: 1
 
     - name: "Que hacemos"
-      url: "/#"
+      url: "#services"
       weight: 2
 
     - name: "Nuestro equipo"
-      url: "/#"
+      url: "#brands"
       weight: 3
 
     - name: "Tarifas"

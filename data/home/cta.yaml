@@ -6,4 +6,4 @@ content:
   image: "images/Taller_17.jpg"
   button:
     label: "¿Hablamos?"
-    url: "#"
+    url: "#services"

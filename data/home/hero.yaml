@@ -10,5 +10,5 @@ content:
 
   buttonSecondary:
     label: "Servicios"
-    url: "partials/services"
+    url: "#services"
 

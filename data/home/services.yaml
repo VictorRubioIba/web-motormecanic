@@ -8,20 +8,22 @@ content:
     - image: "images/Taller_3.jpg"
       title: "Mecánica en general"
       text: "En Motor Mecanic, somos expertos en ofrecer soluciones completas para todas tus necesidades de mecánica en general. Nuestro equipo de técnicos altamente capacitados está comprometido con el servicio de calidad, brindando atención personalizada y soluciones a medida para que tu vehículo siempre funcione a la perfección. Ya sea que necesites un simple cambio de aceite o una reparación mayor, en Motor Mecanic estamos aquí para ayudarte. Nos enorgullece nuestra transparencia y honestidad, y siempre te mantendremos informado sobre el estado de tu vehículo y las soluciones propuestas.Confía en nosotros para mantener tu coche en las mejores condiciones. Agenda una cita hoy mismo y experimenta el servicio de calidad que nos distingue."
-      
+      button:
+        label: "Saber más"
+        url: "/blog"
 
-    - image: "images/mantenimiento.png"
+    - image: "images/Taller_9.jpg"
       title: "Mantenimientos"
       text: " Mantener tu vehículo en perfectas condiciones es esencial para tu seguridad y la longevidad de tu coche. En Motor Mecanic, ofrecemos servicios de mantenimiento diseñados para que tu vehículo siempre esté en su mejor forma, sin importar su antigüedad o marca. Nuestros servicios de mantenimiento incluyen:Cambio de aceite y filtros: Utilizamos aceites y filtros de alta calidad para garantizar el buen funcionamiento de tu motor y prolongar su vida útil.Revisión de frenos: Un sistema de frenos en buen estado es clave para tu seguridad. Revisamos y reemplazamos pastillas, discos y otros componentes según sea necesario.Revisión del sistema eléctrico: Nos aseguramos de que todas las luces y sistemas electrónicos funcionen correctamente, evitando problemas futuros.Control de líquidos: Revisamos y rellenamos todos los líquidos esenciales, como anticongelante, líquido de frenos, dirección asistida y limpiaparabrisas.Inspección general: Hacemos un chequeo completo para identificar posibles problemas antes de que se conviertan en averías costosas.En Motor Mecanic, creemos que el mantenimiento preventivo es la clave para un vehículo confiable. Nuestro equipo está comprometido con brindarte un servicio rápido y eficiente, sin sacrificar la calidad ni la atención al detalle. Te explicaremos todos los pasos y te ofreceremos recomendaciones para mantener tu coche en las mejores condiciones.Programa tu mantenimiento con nosotros y disfruta de la tranquilidad de saber que tu vehículo está en manos de expertos. ¡Esperamos verte pronto! "
       button:
-        label: "Learn more"
-        url: "#"
+        label: "Saber más"
+        url: "/blog"
 
-    - image: "images/rueda.png"
+    - image: "images/Taller_15.jpg"
       title: "Cambios de Neumáticos"
       text: " Los neumáticos son uno de los componentes más importantes para la seguridad y el rendimiento de tu vehículo. En Motor Mecanic, sabemos que elegir el neumático adecuado y asegurarse de que esté instalado correctamente es crucial para tu tranquilidad en la carretera.Ofrecemos servicios completos de cambio de neumáticos, incluyendo:Asesoramiento personalizado: Te ayudamos a elegir el tipo de neumático que mejor se adapte a tu vehículo y a tus necesidades, ya sea para uso diario, conducción deportiva o condiciones especiales como nieve o lluvia intensa.Montaje y equilibrado: Nuestro equipo de expertos montará tus nuevos neumáticos con precisión y realizará el equilibrado para asegurar un manejo suave y evitar el desgaste irregular.Alineación de ruedas: Una correcta alineación prolonga la vida útil de tus neumáticos y mejora la estabilidad y el control del vehículo. Comprobamos y ajustamos la alineación según las especificaciones del fabricante.Inspección de neumáticos: Revisamos tus neumáticos existentes para identificar signos de desgaste, daños o desalineación. También verificamos la presión de aire para un rendimiento óptimo.Reciclaje de neumáticos usados: Nos encargamos de la eliminación responsable de tus neumáticos viejos, contribuyendo a la sostenibilidad y el cuidado del medio ambiente.En Motor Mecanic, entendemos que tus neumáticos son la única parte del vehículo en contacto con el suelo. Por eso, nos aseguramos de que estén en las mejores condiciones posibles para brindarte seguridad y confianza en cada viaje.Visítanos para el cambio de neumáticos y deja que nuestro equipo de profesionales te ayude a mantener tu vehículo seguro y eficiente. ¡Agenda tu cita hoy mismo! "
       button:
-        label: "Learn more"
-        url: "#"
+        label: "Saber más"
+        url: "/blog"
 
 
