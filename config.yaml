@@ -52,7 +52,7 @@ menus:
       weight: 3
 
     - name: "Tarifas"
-      url: "/#"
+      url: "./sections/cta"
       weight: 4
 
     - name: "Blog"
@@ -61,7 +61,7 @@ menus:
 
   buttons:
     - name: "Ponte en contacto"
-      url: "/#"
+      url: "service"
       weight: 5
       pre: "btn btn-primary text-light"
 
