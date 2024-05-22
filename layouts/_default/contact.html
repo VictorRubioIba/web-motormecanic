@@ -1,0 +1,25 @@
+{{ define "main" }}
+<section id="sect-thank-you" class="dark background background-05">
+  <div class="container thank-you-hero vertical-center">
+    <div class="row">
+      <div class="col-md-12 text-center">
+				<h1><em>Contacta con nosotros</em> para averiguar c&oacute;mo podemos <em>colaborar</em>.</h1>		
+      </div>
+	</div>
+	<div class="col-md-12 text-center"><img src="../static/img/flecha-abajo.jpg" /></div>
+    </div>
+  </div>
+</section>
+
+<section id="sect-contact" class="gloaming">
+	<div class="container ">
+		<div class="col-md-12 text-center">
+			<div class="col-md-12 col-sm-12">
+				<h2>Por favor, completa el siguiente formulario para que nos pongamos en contacto contigo lo antes posible.</h2>
+				
+			</div>
+			<div>{{- partial "contactform.html" . -}}</div>
+		</div>
+	</div>
+</section>
+{{ end }}

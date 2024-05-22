@@ -1,0 +1,40 @@
+
+
+
+.slider {
+  position: relative;
+  width: 120%;
+  max-width: 1000px;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
+  .slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    animation: scroll 20s linear infinite;
+
+    .slide {
+      min-width: 40%;
+      transition: opacity 0.5s ease-in-out;
+
+      img {
+        display: block; 
+        height: 60px; 
+        width: 180px; 
+        border: 2px solid white; 
+        padding-right: 1px;
+        padding-left: 1px;
+        border-radius: 10px;
+      }
+    }
+  }
+}
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}

@@ -2,6 +2,8 @@ import "./_bootstrap";
 
 import "./_header";
 import "./_footer";
+import "./_contact";
+import "./_slider";
 
 import "../sections/hero";
 import "../sections/brands";

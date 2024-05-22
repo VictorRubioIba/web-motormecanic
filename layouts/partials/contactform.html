@@ -1,0 +1,50 @@
+<form accept-charset="UTF-8" data-redirect="/gracias/" class="contact-js">
+  <div class="row">
+    <div class="col-md-6 form-group">
+      <input class="form-control" id="name" name="name" type="text" placeholder="Nombre" required/>
+    </div>
+    <div class="col-md-6 form-group">
+      <input class="form-control" id="surname" name="surname" type="text" placeholder="Apellidos" required/>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6 form-group">
+      <input class="form-control" id="email" name="email" type="email" placeholder="Email" required/>
+    </div>
+    <div class="col-md-6 form-group">
+      <input class="form-control" id="phone" name="phone" type="text" placeholder="Número de teléfono"/>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12">
+      <div class="form-group">
+        <input class="form-control" id="company" name="company" type="text" placeholder="Compañia"/>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12">
+      <div class="form-group">
+        <textarea class="form-control" id="message" name="message" placeholder="Descripción" required></textarea>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12">
+      <div class="form-group">
+        <label class="checkbox-container" for="accept-terms"
+          ><input
+            id="accept-terms"
+            name="accept-terms"
+            type="checkbox"
+          /><span class="checkmark"></span>{{ i18n "checkcomms" }}</label
+        >
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12 text-center">
+      <input class="btn-submit" type="submit" name="submit" value="Enviar" />
+    </div>
+  </div>
+</form>

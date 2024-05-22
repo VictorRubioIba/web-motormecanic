@@ -1,15 +1,19 @@
 .section.hero {
-  .hero-image {
-    // @media (min-width: 1400px) {
-    //   img {
-    //     max-width: 125%;
-    //     float: right;
-    //   }
-    // }
-  }
+ 
   .hero-title {
-    strong {
-      color: $danger;
-    }
+  color: #ffc107;
   }
+  .hero-text {
+    color: #fff;
+  }
+}
+.hero{
+  margin-top: 20px;
+  
+  background-image: url(../img/Taller_3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+
 }
