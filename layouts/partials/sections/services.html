@@ -18,7 +18,11 @@
             <div class="card-body">
               {{ with .title }}<h4 class="card-title text-center text-dark pb-4">{{ . }}</h4>{{ end }}
               {{ with .text }}<p class="card-text text-justify text-black-61 pb-4">{{ . }}</p>{{ end }}
+              <ul id="list" class="list-group list-group-flush pb-4">
+                {{ range .list }}<li class=" text-black-61 pb-3">{{ . }}</li>{{ end }}
+              </ul>
               {{ with .button }}<a class="btn btn-outline-primary px-4" href="{{ .url }}">{{ .label }}</a>{{ end }}
+
             </div>
           </div>
         </div>
